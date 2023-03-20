@@ -1,0 +1,14 @@
+{
+  "name": "7.7-integration-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:api": "cypress run --record --key 7e5bf736-74cc-4623-a54d-c5a9a6729c09"
+  },
+  "author": "ksenya",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
+}
